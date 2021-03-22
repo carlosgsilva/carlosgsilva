@@ -2,7 +2,7 @@
 
 ## I am a data student who loves to tell stories in the best way possible!
 - 📚 Currently graduating in Information Systems
-- 📈 I’m constantly learning and Improving my skills 🤣
+- 📈 I’m constantly learning and Improving my skills 
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
 
 ### Connect with me:
