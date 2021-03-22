@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="Carlos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlosgsilva&show_icons=true&hide_border=true" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=carlosgsilva&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 [medium]: https://medium.com/@carlosgsilva.dev
 [linkedin]: linkedin.com/in/carlos-gsilva/
