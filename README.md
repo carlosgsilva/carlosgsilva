@@ -28,7 +28,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/26/000000/html-5--v2.png" />
 
-<img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/26/000000/css3.png" />
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
