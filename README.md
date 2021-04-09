@@ -1,9 +1,13 @@
-### Carlos Silva - [Data Analyst] 👋
+### Carlos Silva 👋
 
-## I am a data student who loves to tell stories in the best way possible!
-- 📚 Currently graduating in Information Systems
-- 📈 I’m constantly learning and Improving my skills 
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+### 👦Sobre mim :seedling: : 
+- 👋 Me chamo **Carlos Silva**, tenho 20 anos.
+- 📌  De Manaus, Amazônia, Brasil.
+- 💼 Atualmente estudante na área de desenvolvimento (Fullstack).
+- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
+[\\] <- 🛠️ Estudando para me tornar um **Analista de dados**.> 
+
+<hr>
 
 ### Connect with me:
 
