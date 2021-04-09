@@ -5,7 +5,6 @@
 - 📌  De Manaus, Amazônia, Brasil.
 - 💼 Atualmente estudante na área de desenvolvimento (Fullstack).
 - 🎓 Cursando o sétimo período de Sistemas de Informação
-[//]: # "🛠️ Estudando para me tornar um **Analista de dados**." 
 
 <hr>
 
