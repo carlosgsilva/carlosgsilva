@@ -3,7 +3,7 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Carlos Silva**, tenho 20 anos.
 - 📌  De Manaus, Amazônia, Brasil.
-- 💼 Atualmente estudante na área de desenvolvimento
+- 💼 Atualmente estudante na área de desenvolvimento web
 - 🎓 Cursando o sétimo período de Sistemas de Informação
 
 <hr>
