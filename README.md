@@ -39,6 +39,8 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluent/26/000000/mysql-logo.png" />
 
+</br>
+</br>
 
 ![Wendhio's github stats](https://github-readme-stats.vercel.app/api?username=carlosgsilva&show_icons=true&theme=gotham)
 
