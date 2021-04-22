@@ -1,47 +1,25 @@
-### Carlos Silva 👋
+## Carlos Eduardo Gomes Silva 🧑🏿‍🚀
 
-### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **Carlos Silva**, tenho 20 anos.
-- 📌  De Manaus, Amazônia, Brasil.
-- 💼 Atualmente estudante na área de desenvolvimento web
-- 🎓 Cursando o sétimo período de Sistemas de Informação
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendhio/)](https://www.linkedin.com/in/carlos-gsilva/)
+<!--
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/[user])](link)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)](link)
+-->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunosaibert@gmail.com)](mailto:carlosgsilva.dev@gmail.com)
 
-<hr>
+### Olá Mundo! 👋
 
-### Connect with me:
+:newspaper: Meu nome é Carlos Silva, graduando em Sistemas de Informação, tenho 20 anos e moro em Manaus.
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/carlos-gsilva/)
+:mortar_board: Sistemas de Informação (7/8)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@carlosgsilva.dev
-)
+:hammer: Techs: JavaScript e NodeJS
+
+:books: Atualmente aprendendo TypeScript, Python e Angular 
+
+:rocket: Sempre estudando para ser um Dev melhor e alcançar o próximo nível.
 
 
-<br />
+![Wendhio's github stats](https://github-readme-stats.vercel.app/api?username=carlosgsilva&show_icons=true&theme=dracula)
 
-### Languages and Tools:
-
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/26/000000/javascript.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/26/000000/html-5--v2.png" />
-
-<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/26/000000/css3.png" />
-
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
-
----
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=carlosgsilva&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-[medium]: https://medium.com/@carlosgsilva.dev
-[linkedin]: linkedin.com/in/carlos-gsilva/
+![Wendhio's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgsilva&layout=compact&theme=dracula)
