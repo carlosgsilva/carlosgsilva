@@ -13,8 +13,6 @@
 
 :mortar_board: Sistemas de Informação (7/8)
 
-:hammer: Techs: JavaScript e NodeJS
-
 :books: Atualmente aprendendo TypeScript, Python e Angular 
 
 :rocket: Sempre estudando para ser um Dev melhor e alcançar o próximo nível.
