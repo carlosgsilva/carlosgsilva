@@ -13,7 +13,7 @@
 
 :mortar_board: Sistemas de Informação (7/8)
 
-:books: Atualmente aprendendo JavaScript, Python e Node 
+:books: Atualmente aprendendo JavaScript, PHP e Node 
 
 :rocket: Sempre estudando para ser um Dev melhor e alcançar o próximo nível.
 
