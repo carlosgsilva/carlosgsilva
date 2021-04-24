@@ -40,4 +40,4 @@
 
 ![Wendhio's github stats](https://github-readme-stats.vercel.app/api?username=carlosgsilva&show_icons=true&theme=gotham)
 
-![Wendhio's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgsilva&layout=compact&theme=gotham)
+![Wendhio's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=carlosgsilva&layout=compact&theme=gotham)
