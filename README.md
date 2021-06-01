@@ -40,8 +40,18 @@
 </br>
 </br>
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=carlosgsilva)
+  
+<p align="left">
+<a href="https://github.com/carlosgsilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=carlosgsilva&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgsilva&layout=compact&langs_count=8"/>
+</a>
+</p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgsilva&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgsilva&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/carlosgsilva/carlosgsilva/blob/output/github-contribution-grid-snake.svg)
