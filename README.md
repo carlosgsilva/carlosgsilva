@@ -1,5 +1,7 @@
 ## Carlos Eduardo Gomes Silva 🧑🏿‍🚀
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=carlosgsilva&repo=carlosgsilva&countColorcountColor)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendhio/)](https://www.linkedin.com/in/carlos-gsilva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunosaibert@gmail.com)](mailto:carlosgsilva.dev@gmail.com)
 
 <!--
@@ -41,3 +43,5 @@
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgsilva&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgsilva&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/carlosgsilva/carlosgsilva/blob/output/github-contribution-grid-snake.svg)
