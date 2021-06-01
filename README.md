@@ -19,23 +19,22 @@
 
 :rocket: Sempre estudando para ser um Dev melhor e alcançar o próximo nível.
 
-### Languages and Tools:
+### Languages & Tools 🛠
 
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/26/000000/javascript.png" />
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<img align="left" alt="Node" width="26px" src="https://img.icons8.com/color/100/000000/nodejs.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/26/000000/html-5--v2.png" />
-
-<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/26/000000/css3.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/26/000000/git.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluent/26/000000/mysql-logo.png" />
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 </br>
 </br>
