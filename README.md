@@ -38,13 +38,13 @@
  
 <p align="center">
   <a href="https://github.com/carlosgsilva">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=carlosgsilva&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=carlosgsilva&theme=gotham"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/carlosgsilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=carlosgsilva&count_private=true&show_icons=true&theme=gruvbox_duo"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgsilva&layout=compact&langs_count=8&theme=gruvbox_duo"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=carlosgsilva&count_private=true&show_icons=true&theme=gotham"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgsilva&layout=compact&langs_count=8&theme=gotham"/>
   </a>
 </p>
 
