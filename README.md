@@ -55,3 +55,9 @@
 <a href="mailto:carlosgsilva.dev@gmail.com"><img src="https://img.shields.io/badge/-carlosgsilva.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<div> 
+ 
+  ![Snake animation](https://github.com/carlosgsilva/carlosgsilva/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
