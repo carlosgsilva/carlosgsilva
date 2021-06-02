@@ -38,7 +38,7 @@
  
 <p align="center">
   <a href="https://github.com/carlosgsilva">
-    https://github-readme-streak-stats.herokuapp.com?user=carlosgsilva&theme=tokyonight
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=carlosgsilva&theme=tokyonight"/>
   </a>
 </p>
 <p align="center">
