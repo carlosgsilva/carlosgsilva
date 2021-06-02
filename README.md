@@ -38,7 +38,7 @@
  
 <p align="center">
   <a href="https://github.com/carlosgsilva">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosgsilva&theme=tokyonight)](https://git.io/streak-stats)
+    https://github-readme-streak-stats.herokuapp.com?user=carlosgsilva&theme=tokyonight)
   </a>
 </p>
 <p align="center">
