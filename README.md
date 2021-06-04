@@ -33,6 +33,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
+
+
 </br>
 </br>
  
