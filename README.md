@@ -8,8 +8,6 @@
 
 :mortar_board: Sistemas de Informação (7/8)
 
-:books: Atualmente aprendendo Java e Vue 
-
 :rocket: Sempre estudando para ser um Dev melhor e alcançar o próximo nível.
 
 ### Languages & Tools 🛠
