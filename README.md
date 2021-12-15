@@ -9,16 +9,16 @@
 
 ### Languages & Tools 🛠
 
-<img align="left" alt="Google Apps Script" width="26px" src="https://img.icons8.com/color/48/000000/google-logo.png" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-<img align="left" alt="Google Apps Script" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=white)&nbsp;
-![Google Apps Script](https://img.icons8.com/color/48/000000/google-logo.png)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node-dot-js&logoColor=white)&nbsp;
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
