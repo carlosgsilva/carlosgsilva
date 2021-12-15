@@ -1,6 +1,6 @@
 ## Carlos Eduardo Gomes Silva 🧑🏿‍🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%233E358D&size=30&center=true&vCenter=true&lines=%3CHello+World!+%F0%9F%99%8B%F0%9F%8F%BF%E2%80%8D%E2%99%82%EF%B8%8F%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%233E358D&size=30&center=true&vCenter=true&lines=%3CHello+World!+🙋🏿‍♂️)](https://git.io/typing-svg)
 
 - 🎂 21 Anos
 - 💼 Atualmente trabalho como Estagiário de Dados, porém estou aberto para novas oportunidades.
