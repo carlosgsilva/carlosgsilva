@@ -11,6 +11,10 @@
 
 <img align="left" alt="Google Apps Script" width="26px" src="https://img.icons8.com/color/48/000000/google-logo.png" />
 
+<img align="left" alt="Google Apps Script" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=white)&nbsp;
 ![Google Apps Script](https://img.icons8.com/color/48/000000/google-logo.png)&nbsp;
