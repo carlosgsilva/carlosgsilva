@@ -1,8 +1,6 @@
 ## Carlos Eduardo Gomes Silva 🧑🏿‍🚀
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=carlosgsilva&repo=carlosgsilva&countColorcountColor)
-
-### Olá Mundo! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World+👋/>&size=24&height=100&width=1920&center=true)](https://git.io/typing-svg)
 
 :newspaper: Meu nome é Carlos Silva, graduando em Sistemas de Informação, tenho 20 anos e moro em Manaus.
 
