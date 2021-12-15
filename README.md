@@ -1,6 +1,6 @@
 ## Carlos Eduardo Gomes Silva 🧑🏿‍🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World+👋/>&size=24&height=100&width=1920&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World+👋/>&size=40&height=100&width=1920&center=true)](https://git.io/typing-svg)
 
 :newspaper: Meu nome é Carlos Silva, graduando em Sistemas de Informação, tenho 20 anos e moro em Manaus.
 
