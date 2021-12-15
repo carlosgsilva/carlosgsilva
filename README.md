@@ -2,15 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World+👋/>&size=40&height=100&width=1920&center=true)](https://git.io/typing-svg)
 
-:newspaper: Meu nome é Carlos Silva, graduando em Sistemas de Informação, tenho 20 anos e moro em Manaus.
-
-:mortar_board: Sistemas de Informação (7/8)
+- 🎂 21 Anos
+- 💼 Atualmente trabalho como Estagiário de Dados, porém estou aberto para novas oportunidades.
+- ❤️ Análise de Dados e Machine Learning.
+- 👨‍🎓 Sistemas de Informação.
 
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Google Apps Script](https://cdn-icons-png.flaticon.com/512/2965/2965300.png)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node-dot-js&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
 
