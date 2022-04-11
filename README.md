@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%23503C9F&size=73&center=true&vCenter=true&width=1920&height=100&lines=print('Hello+world!'))](https://git.io/typing-svg)
 
 - 🎂 21 Anos
-- 💼 Atualmente trabalho como Estagiário de Dados, porém estou aberto para novas oportunidades.
+- 💼 Atualmente trabalho como Assistente de Projetos - Área de Dados.
 - ❤️ Análise de Dados e Machine Learning.
 - 👨‍🎓 Sistemas de Informação.
 
