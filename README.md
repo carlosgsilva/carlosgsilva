@@ -1,59 +1,74 @@
-## Carlos Eduardo Gomes Silva 🧑🏿‍🚀
+# 👋 Olá, eu sou o Carlos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%23503C9F&size=73&center=true&vCenter=true&width=1920&height=100&lines=print('Hello+world!'))](https://git.io/typing-svg)
+Sou **QA Engineer** com foco em **qualidade de software, testes de API, testes de performance e melhoria contínua de processos**.  
+Atuo em times **cross-funcionais**, apoiando múltiplos produtos e garantindo qualidade desde a integração até a entrega em produção.
 
-- 🎂 25 Anos
-- 💼 Atualmente trabalho como QA Engineer.
-- 👨‍🎓 Sistemas de Informação.
-- 🎓Especialização em Engenharia de Qualidade e Teste de Software
+---
 
-### Languages & Tools 🛠
-<div align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
+## 🧪 Sobre mim como QA
 
-<br>
+- 🔍 QA com atuação prática em **testes funcionais, regressão, contrato e performance**
+- 🔗 Forte experiência em **testes de API (REST)**
+- 🧩 Trabalho próximo a times de Produto, Backend e Tech Leads
+- 📊 Foco em métricas, evidências e rastreabilidade de qualidade
+- 🧠 Mentalidade de **qualidade como processo**, não apenas como etapa final
 
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+---
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
+## 🏗️ Experiência Técnica
 
-</br>
-</br>
- 
-<p align="center">
-  <a href="https://github.com/carlosgsilva">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=carlosgsilva&theme=gotham"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/carlosgsilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=carlosgsilva&count_private=true&show_icons=true&theme=gotham"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgsilva&layout=compact&langs_count=8&theme=gotham"/>
-  </a>
-</p>
+### 🔧 Testes e Qualidade
+- Testes funcionais e exploratórios
+- Testes de API (validação de payloads, headers, status codes e regras de negócio)
+- Testes de contrato
+- Testes de regressão
+- Testes de performance e carga
+- Validação de integrações entre sistemas
 
-### Let's connect ? 🤝
+### 🛠️ Ferramentas e Tecnologias
+- **Postman** (collections, environments, testes automatizados)
+- **K6** (testes de carga e performance)
+- **Python** (automação de testes de API e apoio a validações)
+- **Azure DevOps** (Boards, Repos, Pipelines)
+- **Git / GitHub**
+- **CI/CD** (estruturação e melhoria de pipelines de teste)
+- **SonarCloud** (integração e qualidade de código)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/carlos-gsilva/"><img src="https://img.shields.io/badge/-carlosgsilva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:carlosgsilva.dev@gmail.com"><img src="https://img.shields.io/badge/-carlosgsilva.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+### 🧩 Arquitetura
+- Microsserviços
+- Integrações com APIs externas
+- Sistemas Legados
+- Ambientes corporativos de alta criticidade
 
-<div> 
- 
-  ![Snake animation](https://github.com/carlosgsilva/carlosgsilva/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
 
+## 📜 Certificações
+
+- ✅ **ISTQB CTFL — Certified Tester Foundation Level**
+
+---
+
+## 📈 O que estou desenvolvendo atualmente
+
+- Padronização de **modelos de teste** (Plano de Teste, Design, Execução e Relatórios)
+- Estrutura base de **qualidade para múltiplos produtos**
+- Evolução de **testes automatizados de API**
+- Integração de testes ao **fluxo de CI/CD**
+- Aprofundamento em **métricas de QA e status report**
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **QA Pleno/Sênior**, contribuindo não apenas com execução de testes, mas com:
+- Estratégia de qualidade
+- Melhoria de processos
+- Cultura de qualidade nos times
+- Automação e eficiência operacional
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-gsilva/)
+- 📧 Email: carlosgsilva.dev@gmail.com
